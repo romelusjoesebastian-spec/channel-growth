@@ -29,7 +29,8 @@ Update every Monday from YouTube Studio (Earn tab + Analytics).
 - $230M video traffic sources: Browse 34.7%, Suggested 28.6%, YouTube search 20.4%, Other YT features 8.2%, Channel pages 6.1%, Other 2.0%. 88.3% of impressions come from YouTube recommending the video.
 - $230M video retention: average view duration 3:09 on a 12:46 video (~25%), 1.8 watch hours total, 33 engaged views. Retention is the second bottleneck after impressions.
 - At ~3:09 average view duration, 4,000 hours needs ~76,000 views (not 40,000). Raising retention cuts the views required.
-- Still to check: retention graph (Engagement tab, "Key moments for audience retention") to find where viewers leave.
+- $230M video retention curve (approximate readings, small sample of ~51 views): ~50% of viewers gone by ~0:25, ~35-40% left at ~1:30, a small bump near ~2:30 (~43%), ~28% by ~4:00, ~12% at the end. The first 30 seconds is the biggest leak. The tail after 4:00 is relatively stable.
+- Next: rewrite the first 30 seconds of every video (see CHECKLIST.md); repeat the technique used at the ~2:30 bump.
 
 ## Targets to check
 

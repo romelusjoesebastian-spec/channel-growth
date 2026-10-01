@@ -8,7 +8,10 @@ Copy this for each long video.
 - [ ] Original angle identified (what do we add that other videos don't?)
 
 ## Script
-- [ ] Hook: strongest moment in the first 30 seconds
+- [ ] Hook: strongest moment in the first 30 seconds (the $230M video lost ~50% of viewers in its first ~25 seconds)
+- [ ] No greeting, channel intro, or "in this video" setup before the hook
+- [ ] First sentence states the shocking fact or the stakes; first visual changes within 3 seconds
+- [ ] Check retention at 0:30 after publishing; target 60%+ still watching
 - [ ] Open loop that pays off later in the video
 - [ ] Subscribe ask after a strong moment, one line
 - [ ] "Alleged" used for anyone not convicted
