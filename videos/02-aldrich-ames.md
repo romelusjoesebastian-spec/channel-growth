@@ -1,8 +1,8 @@
 # Video brief: Aldrich Ames (CIA spy)
 
-Target length: 8-9 min (~1,200-1,350 words at ~150 wpm). Status: brief drafted, script not written.
+Target length: ~5 min as scripted (740 words); 8-9 min if expanded. Status: script v1 drafted in 02-aldrich-ames-script.md.
 
-Goal for this video: fix retention. Success = **60%+ still watching at 0:30** and **average view duration 4:00+** (previous video: ~50% gone by 0:25, 3:09 average).
+Goal for this video: fix retention. Success = **60%+ still watching at 0:30** and **average view duration 3:00+** (on a ~5-minute cut) (previous video: ~50% gone by 0:25, 3:09 average).
 
 ## Packaging
 
