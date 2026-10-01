@@ -6,7 +6,7 @@ Starting point (Oct 1, 2026): 2 subscribers, 4 watch hours (365 days), 523 Short
 - Early tier: 500 subs + 3,000 watch hours (or 3M Shorts views in 90 days)
 - Full tier: 1,000 subs + 4,000 watch hours (or 10M Shorts views in 90 days)
 
-Rough math: 4,000 hours = 240,000 minutes. At ~6 min average watched per view, that is ~40,000 long-form views.
+Rough math: 4,000 hours = 240,000 minutes. At the current ~3 min average watched per view, that is ~76,000 long-form views. At ~6 min (a retention goal) it is ~40,000.
 Twelve weeks will not reach this alone. The goal of this phase is a repeatable format with healthy CTR and retention, and the first 100-200 subscribers.
 
 ## Weekly time budget (14 h)

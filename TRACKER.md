@@ -25,7 +25,11 @@ Update every Monday from YouTube Studio (Earn tab + Analytics).
 - The bottleneck is impressions (distribution), not CTR.
 - For 40,000 long-form views at 4% CTR, the channel needs ~1,000,000 impressions, about 750x the current total.
 - Impression curves flatten after ~2 weeks (no ongoing search/suggested traffic).
-- Still to check: "How viewers find this video" (traffic sources) and the Engagement tab (retention) for each video.
+- Correction: the $230M video does get YouTube search traffic (20.4%). Earlier note of "no search traffic" was wrong.
+- $230M video traffic sources: Browse 34.7%, Suggested 28.6%, YouTube search 20.4%, Other YT features 8.2%, Channel pages 6.1%, Other 2.0%. 88.3% of impressions come from YouTube recommending the video.
+- $230M video retention: average view duration 3:09 on a 12:46 video (~25%), 1.8 watch hours total, 33 engaged views. Retention is the second bottleneck after impressions.
+- At ~3:09 average view duration, 4,000 hours needs ~76,000 views (not 40,000). Raising retention cuts the views required.
+- Still to check: retention graph (Engagement tab, "Key moments for audience retention") to find where viewers leave.
 
 ## Targets to check
 
