@@ -102,10 +102,12 @@ On-screen: "Senate Intelligence Committee, Nov 1, 1994"
 
 ## 10. Close
 
-Visual: a closed file folder; fade to a silhouette of a second figure, with a shadowed FBI badge shape (illustration).
-On-screen: "Next: the FBI's own traitor"
+Visual: a closed file folder under a single desk lamp; fade to a dark folder with a red stamp (illustration).
+On-screen: "Subscribe"
 
-> Ames was not the last traitor inside American intelligence. Years later, the FBI had to face its own. His name was Robert Hanssen. And that story is next.
+> Ames was caught because a small team refused to stop asking where the money came from.
+>
+> If you want more true stories of spies and fraud, subscribe.
 
 ---
 

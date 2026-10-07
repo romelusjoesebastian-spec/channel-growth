@@ -36,7 +36,7 @@ Rules for delivery: no greeting, no channel intro. Visual changes within 3 secon
 | 6:00 | The FBI takes over | ~10-month surveillance. Oct 13, 1993: chalk mark on a mailbox. Nov 1993: Bogota, Colombia. |
 | 7:15 | Arrest and sentence | Feb 21, 1994 arrest in Arlington, Virginia, with his wife Rosario. Guilty pleas Apr 28, 1994. Life without parole; Rosario 63 months. |
 | 8:00 | Why he went undetected | Senate report (Nov 1, 1994): "gross negligence" by the CIA, individually and institutionally. |
-| 8:45 | Close | One-line takeaway, then point to the next video (Robert Hanssen). |
+| 8:45 | Close | One-line takeaway, one-line subscribe ask. No next-video tease. |
 
 Pay off the open loop from the hook ("the small team that caught him") by 6:00.
 
