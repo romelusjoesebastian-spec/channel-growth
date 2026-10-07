@@ -105,7 +105,7 @@ On-screen: "Senate Intelligence Committee, Nov 1, 1994"
 Visual: a closed file folder; fade to a silhouette of a second figure, with a shadowed FBI badge shape (illustration).
 On-screen: "Next: the FBI's own traitor"
 
-> Ames was not the last traitor inside American intelligence. A few years later, the FBI had to face its own. His name was Robert Hanssen. And that story is next.
+> Ames was not the last traitor inside American intelligence. Years later, the FBI had to face its own. His name was Robert Hanssen. And that story is next.
 
 ---
 
