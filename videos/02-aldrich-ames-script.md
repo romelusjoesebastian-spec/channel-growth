@@ -61,7 +61,7 @@ On-screen: "Early 1991: the hunt begins"
 Visual: a bank statement graphic with deposits highlighted; a house exterior; a luxury car (illustration). Whip-cut between them.
 On-screen: "August 1992" then "$600,000+ on a house and cars"
 
-> In August 1992, Sandy Grimes found a pattern. Ames had made large bank deposits right after meetings with a particular Soviet official. **[V]**
+> In August 1992, the team found a pattern. Ames had made large bank deposits right after meetings with a particular Soviet official.
 >
 > Then came the lifestyle. By 1993, on a government salary, Ames had spent more than six hundred thousand dollars on a new house and luxury cars. The numbers did not add up.
 >
@@ -121,7 +121,7 @@ On-screen: "Subscribe"
 
 ## Verify before rendering
 
-- [ ] **[V]** Grimes discovered the post-meeting deposits in Aug 1992 (sources I found credit her; confirm in *Circle of Treason* or a CIA/FBI source). If you can't confirm, change the line to "the team found a pattern."
+- [x] Resolved: the script now says "the team found a pattern" (August 1992), so naming Grimes as the person who found the deposits is no longer needed. Optional: confirm the August 1992 date in a source.
 - [ ] "More than six hundred thousand dollars": FBI page, spent on a house and cars by 1993.
 - [ ] "At least ten died": consistent with the FBI page and other sources.
 - [ ] "Almost nine years": April 1985 to Feb 1994 is 8 years 10 months (the Senate report uses "nine years").
