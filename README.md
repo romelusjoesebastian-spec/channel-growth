@@ -8,3 +8,4 @@ Plan to get the Classified Truths YouTube channel into the YouTube Partner Progr
 - [videos/02-aldrich-ames.md](videos/02-aldrich-ames.md): brief for the next video (Aldrich Ames)
 - [videos/02-aldrich-ames-script.md](videos/02-aldrich-ames-script.md): narration script
 - [videos/02-aldrich-ames-scenes.csv](videos/02-aldrich-ames-scenes.csv): 48-scene sheet to paste from (narration, visual prompt, on-screen text)
+- [videos/03-binance-hack.md](videos/03-binance-hack.md): brief for the Binance hack video (not scripted yet)
