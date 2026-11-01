@@ -1,6 +1,6 @@
 # Video brief: The Binance hack (Oct 29, 2026)
 
-Status: brief only. Not ready to script. The story is days old and still changing.
+Status: brief. Full research is in [03-binance-research.md](03-binance-research.md) (as of Nov 1, 2026). Script not written yet.
 
 ## Source quality (read this first)
 
