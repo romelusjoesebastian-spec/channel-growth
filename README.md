@@ -10,3 +10,6 @@ Plan to get the Classified Truths YouTube channel into the YouTube Partner Progr
 - [videos/02-aldrich-ames-scenes.csv](videos/02-aldrich-ames-scenes.csv): 48-scene sheet to paste from (narration, visual prompt, on-screen text)
 - [videos/03-binance-hack.md](videos/03-binance-hack.md): brief for the Binance hack video (not scripted yet)
 - [videos/03-binance-research.md](videos/03-binance-research.md): sourced research on the Oct 29, 2026 hack, with confidence tags
+- [videos/03-binance-script.md](videos/03-binance-script.md): full script (about 10 min)
+- [videos/03-binance-narration-by-scene.txt](videos/03-binance-narration-by-scene.txt): narration to paste, one paragraph per scene
+- [videos/03-binance-scenes.csv](videos/03-binance-scenes.csv): 100-scene sheet (visual prompts, on-screen text)

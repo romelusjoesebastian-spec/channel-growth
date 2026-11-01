@@ -1,0 +1,199 @@
+On the evening of October twenty-ninth, billions of dollars started leaving one of the world's biggest crypto exchanges.
+
+Within hours, its founder wrote: "User funds are safe. It does look like a hack on Binance."
+
+Binance now estimates the total impact at about six point three billion dollars. That makes it the largest crypto theft on record.
+
+According to Binance, it may have started with one engineer's laptop.
+
+And blockchain investigators say the people behind it are a North Korean hacking group.
+
+This video covers what we know so far, what we don't, and why the number that matters most is not the one in the headlines.
+
+Everything here is as of November first, twenty twenty-six, and some of it may change.
+
+Binance is a crypto exchange. People use it to buy, sell and hold digital money like Bitcoin and Ethereum.
+
+Like every exchange, it keeps some of its crypto in what are called hot wallets.
+
+A hot wallet is connected to the internet, because it has to be. It is what lets customers withdraw their money quickly.
+
+The trade-off is that anything connected to the internet can be attacked.
+
+On October twenty-ninth, reports say, attackers began moving crypto out of Binance's hot wallets.
+
+Then Binance's founder, Changpeng Zhao, known as C.Z., posted on X.
+
+He wrote that user funds were safe, and that it looked like a hack.
+
+Binance said it was investigating a potential security issue.
+
+Then it suspended deposits and withdrawals, so nobody could move their money in or out.
+
+Bitcoin dropped. The reports were coming in faster than the facts.
+
+Start with the size, because it is hard to picture.
+
+Binance's own estimate is about six point three billion dollars in total impact.
+
+The blockchain analysis firm TRM Labs measured about six point three six billion, across ten blockchains. Chainalysis put it at about six point four billion.
+
+The estimates differ slightly, and Binance's own number is an estimate, not a final tally.
+
+For comparison, the previous record belonged to Bybit, which lost about one point five billion dollars in February twenty twenty-five.
+
+This is more than four times larger.
+
+Before Bybit, the biggest thefts were around six hundred million dollars, like the Ronin network in twenty twenty-two.
+
+Binance has also been hit before. We'll get to that.
+
+So how do you drain a hot wallet at one of the biggest exchanges in the world?
+
+The honest answer is that we don't fully know yet.
+
+Binance has promised a detailed technical report, called a post-mortem, once its investigation is complete. As of November first, it hasn't been published.
+
+Here is what Binance has said so far.
+
+Its first finding was that the break-in may involve a compromised laptop belonging to one of its DevOps engineers. That is someone who helps run and maintain the company's systems.
+
+From that laptop, according to Binance, the attacker reached a service container, which is a piece of the company's infrastructure, and used it to submit unauthorized withdrawals.
+
+Binance also said it found no evidence that the private keys to its wallets were stolen.
+
+But then the story got bigger. Binance's co-CEO, Richard Teng, said the attack was a more complex process than one engineer's permissions being misused.
+
+And investigators found additional points of breach, though they have not said where.
+
+TRM Labs reached a similar conclusion from the outside. It says the system that signs withdrawals was likely compromised, and that the way the attackers prepared looks like the Bybit heist.
+
+If you read about this online, you may see very specific technical details. Exact times, a particular smart contract trick, a number of signatures.
+
+Many of those come from small blogs and are not confirmed by Binance or major news outlets. Until the post-mortem is out, treat them as guesses.
+
+Analysts say the attack targeted one company's systems, not the Bitcoin network itself.
+
+For attackers, the weakest part of a very secure system is often a person.
+
+Now, the number that matters most.
+
+Binance says about three billion dollars of the stolen money has been frozen.
+
+Here is how that works. Some of what was taken was stablecoins, which are digital dollars issued by companies like Tether and Circle. Those companies can block specific coins from moving.
+
+Tether froze more than one and a half billion dollars. Circle froze more than eight hundred million. Other issuers froze funds too.
+
+That sounds like the money is safe. It isn't, yet.
+
+Frozen is not the same as recovered.
+
+According to CBS News, the first step is moving frozen money into a wallet the hackers cannot reach. To actually get it back, law enforcement then needs a seizure warrant to transfer it to a U.S. government account.
+
+And reports say the attacker still controls about three point three billion dollars that no company can freeze.
+
+So, according to those reports, roughly half the stolen money is locked, and roughly half is out of reach.
+
+Whether the locked half goes back to Binance, and how long that takes, is an open question.
+
+In past heists, thieves have moved money across many blockchains within hours. In the twenty twenty-two Binance bridge hack, for example, the attacker swapped money across several chains.
+
+So who did it?
+
+Two blockchain analytics firms, TRM Labs and Chainalysis, say North Korea.
+
+Specifically, a hacking group they call TraderTraitor.
+
+TRM Labs says it has high confidence, based on on-chain and off-chain intelligence.
+
+Chainalysis points to something concrete. It says it watched stolen Binance funds mix on the blockchain with money from the Bitget theft last month. That earlier theft had already been tied to North Korea.
+
+Independent investigators, including ZachXBT, also point to North Korea.
+
+And the U.S. government is involved. The FBI and the Secret Service are working with Binance. Reports from NBC News and ABC News say the FBI has attributed the attack to North Korea.
+
+The FBI also said it is coordinating with the U.S. Attorney's Office in Washington, D.C., so prosecutors are involved.
+
+A note on certainty. Attribution in cases like this is usually built from patterns, not a confession. Analysts match the techniques, the money trail and the timing to earlier attacks.
+
+It is strong evidence, but it is not a court verdict.
+
+And this would not be the first time. The FBI attributed the Bybit heist in twenty twenty-five to the same group, TraderTraitor.
+
+It linked the twenty twenty-two Ronin network theft, about six hundred million dollars, to North Korea-associated groups.
+
+If the attribution holds, North Korea would be linked to three of the largest crypto thefts ever.
+
+What has Binance done?
+
+First, it stopped withdrawals, to prevent more losses while it checked its systems.
+
+Second, it promised to cover all losses with its own money. That includes a fund called SAFU, the Secure Asset Fund for Users, which Binance created to protect customers in emergencies.
+
+SAFU holds roughly one billion dollars, according to estimates. That is far less than six billion, so most of the cost falls on Binance itself.
+
+One report says Binance has already covered about ninety-five percent of the loss. I could not confirm that independently, so treat it with caution.
+
+Binance's co-CEO has said the three billion dollars frozen is only about two percent of total user assets and reserves. In other words, the company argues this is large but survivable.
+
+One analyst told reporters the hack does not currently appear to create a meaningful risk to Binance's solvency. That is one analyst's opinion, not a guarantee.
+
+For everyday customers, the key point so far is Binance's statement that user funds are safe and that it will cover the losses.
+
+That is Binance's promise, not an independent guarantee. It is why the proof of reserves matters so much.
+
+And pausing withdrawals for days is itself a cost. People could not move their money while prices were moving.
+
+On November first, Binance began reopening withdrawals in stages, starting with Bitcoin. Some other coins were still paused in at least one report.
+
+It has also said it will publish an updated proof of reserves, a report meant to show it holds enough assets to cover what customers are owed. I found no confirmation that it has been published yet.
+
+How did the market react?
+
+Bitcoin fell about four percent, to roughly seventy-seven thousand dollars, its lowest in about six weeks.
+
+BNB, Binance's own token, fell between six and eight percent. Ether fell about four point four percent.
+
+Around one and a half billion dollars of trades were liquidated, and the Crypto Fear and Greed Index dropped to thirty, its lowest reading since August.
+
+But CNBC noted that after past exchange hacks, Bitcoin has fallen an average of about eight percent in the first day. So this reaction was milder than usual.
+
+Analysts said the spillover looked contained, because the attack hit one company, not the Bitcoin network itself.
+
+This is not financial advice, and I'm not telling you what to do with any coins.
+
+This is not Binance's first hack.
+
+In May twenty nineteen, attackers stole about seven thousand Bitcoin, worth around forty million dollars at the time. They obtained customers' API keys and two-factor codes.
+
+Binance covered the loss from SAFU, and pledged to significantly increase security.
+
+In October twenty twenty-two, an attacker exploited a flaw in the bridge that connects Binance's blockchain to others. They forged proofs and created about two million BNB, worth around five hundred seventy million dollars at the time.
+
+Binance halted its blockchain, and a software update fixed the flaw days later. Most of the new coins were reportedly frozen, and one analysis estimates the attacker ended up with around one hundred thirty-seven million dollars.
+
+Three incidents, and each one targeted a different part of the system. A customer login system. A bridge between blockchains. And now, according to Binance's early findings, an internal engineering system.
+
+The size of each one grew. About forty million dollars. About five hundred seventy million. Now about six point three billion.
+
+So what don't we know?
+
+We don't know exactly how the attackers got in. Binance's full post-mortem has not been published.
+
+We don't know how much of the frozen money will ever be recovered, or when.
+
+We don't know whether anyone will be charged, or whether the funds the attacker still holds can be traced and seized.
+
+And we don't yet know what Binance's updated proof of reserves will show.
+
+I'll note updates in the pinned comment as those answers come in.
+
+Here's the takeaway.
+
+According to Binance's early findings, the biggest crypto theft in history began with a company's own systems, not with a break in the math behind crypto.
+
+About three billion dollars is frozen. Another three billion, according to reports, is still out of reach. And who gets what back is not answered yet.
+
+This video reflects what was reported as of November first. Details may change, and I'll note corrections in the pinned comment.
+
+If you want more stories about hacks, fraud and spies, subscribe.
