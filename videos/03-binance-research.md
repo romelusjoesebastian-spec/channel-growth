@@ -86,3 +86,12 @@ Use phrases like "Binance estimates about six billion dollars."
 - No financial advice and no price predictions.
 - Don't copy another creator's video or an article's wording.
 - Put the date on screen ("as of Nov 1, 2026") and pin a comment for updates.
+
+
+## Update, Nov 2, 2026 (changes to the above)
+
+- **FBI attribution is now widely reported.** NBC News, ABC (Australia), NPR and Inc. report that the FBI attributed the hack to North Korea's TraderTraitor and said it observed members converting stolen assets into ether and expects further laundering. Sources: [NBC News](https://www.nbcnews.com/business/business-news/fbi-says-north-korea-was-6-billion-binance-crypto-hack-rcna606758), [ABC (Australia)](https://www.abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446), [NPR](https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea), [Inc.](https://www.inc.com/kevin-haynes/fbi-links-record-6-3-billion-binance-crypto-heist-to-north-korea/91429394). Read the FBI's own statement before quoting it.
+- **Coverage figure corrected:** CNBC reports Binance says it restored backing for about **90%** of affected assets, using SAFU, part of its futures insurance fund, and its corporate treasury. That is not 90% recovered from the attacker. This replaces the earlier "about 95%" figure. Source: [CNBC](https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html).
+- **Proof of reserves:** Binance posted a reserves snapshot (as of midnight UTC Oct 31); the full cryptographic proof is expected by **Nov 3 (UTC)**, later than the Nov 2 target. Source: [Feld](https://feld.com/archives/2026/11/binance-hack-update), [Crypto.news](https://crypto.news/binance-hack-recovery-withdrawals-proof-of-reserves/).
+- **New:** The Block reports Binance saw about **$3.64 billion in net outflows** after reopening withdrawals on Nov 1. Source: [The Block](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259).
+- **Still unconfirmed:** a full official post-mortem; any seizure or recovery of stolen funds; any charges.

@@ -13,3 +13,4 @@ Plan to get the Classified Truths YouTube channel into the YouTube Partner Progr
 - [videos/03-binance-script.md](videos/03-binance-script.md): full script (about 10 min)
 - [videos/03-binance-narration-by-scene.txt](videos/03-binance-narration-by-scene.txt): narration to paste, one paragraph per scene
 - [videos/03-binance-scenes.csv](videos/03-binance-scenes.csv): 100-scene sheet (visual prompts, on-screen text)
+- [videos/03-binance-publish.md](videos/03-binance-publish.md): title, thumbnail, description, tags, chapters, pinned comment, captions, Shorts

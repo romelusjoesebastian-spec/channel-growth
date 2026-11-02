@@ -170,7 +170,7 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 
 > SAFU holds roughly one billion dollars, according to estimates. That is far less than six billion, so most of the cost falls on Binance itself.
 
-> One report says Binance has already covered about ninety-five percent of the loss. I could not confirm that independently, so treat it with caution.
+> CNBC reports that Binance says it has restored backing for about ninety percent of the affected assets, using its SAFU fund, part of its futures insurance fund, and its own treasury. That is not the same as getting the money back from the hackers.
 
 > Binance's co-CEO has said the three billion dollars frozen is only about two percent of total user assets and reserves. In other words, the company argues this is large but survivable.
 
@@ -184,7 +184,7 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 
 > On November first, Binance began reopening withdrawals in stages, starting with Bitcoin. Some other coins were still paused in at least one report.
 
-> It has also said it will publish an updated proof of reserves, a report meant to show it holds enough assets to cover what customers are owed. I found no confirmation that it has been published yet.
+> Binance has published a snapshot of its reserves, and says the full proof of reserves, a report meant to show it holds enough to cover what customers are owed, is due by November third.
 
 
 ### Market reaction
@@ -264,11 +264,11 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 - [ ] **[V]** "One of the world's biggest crypto exchanges": confirm with a source.
 - [ ] **[V]** Zhao's role and the exact wording of his post (Yahoo Finance, Cryptonews, Bloomberg).
 - [ ] **[V]** Teng's title and quote (Euronews).
-- [ ] **[V]** FBI attribution wording: read the FBI statement. The script says "reports from NBC News and ABC News say the FBI has attributed..."
+- [x] Updated Nov 2: NBC News, ABC (Australia), NPR and Inc. report the FBI attributed it to North Korea's TraderTraitor and expects further laundering. Still read the FBI statement itself.
 - [ ] **[V]** FBI coordination with the U.S. Attorney's Office, D.C. (Bloomberg, Decrypt).
 - [ ] **[V]** Tether (over $1.5B) and Circle (over $800M) freeze figures.
 - [ ] **[V]** "About $3.3B still out of reach" (The Hacker News, reported).
-- [ ] **[V]** "About 95% covered" (BeInCrypto, unconfirmed). The script already says so.
+- [x] Updated Nov 2: "about 90% restored" per CNBC (not the earlier 95% from BeInCrypto). This is backing restored by Binance, not funds recovered from the attacker.
 - [ ] Binance estimate $6.3B, TRM about $6.36B, Chainalysis about $6.4B.
 - [ ] Market figures: BTC about -4% (about $77,000), BNB -6 to -8%, ETH about -4.4%, about $1.5B liquidations, Fear and Greed 30, past average about 8.3% (CNBC, The Block).
 - [ ] Bybit about $1.5B (Feb 2025) and Ronin about $540-625M (2022), and the FBI attributions.
