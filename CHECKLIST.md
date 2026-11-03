@@ -37,3 +37,18 @@ Copy this for each long video.
 - [ ] Matching Short published with link to the long video
 - [ ] Replied to comments in first 24h
 - [ ] After 48h: log impressions, CTR, retention in TRACKER.md
+
+## Script quality rules (retention first; added after the Binance video)
+
+Lesson from the Binance video: browse traffic arrived but viewers left within seconds. The script opened with a date, delayed its main payoff to ~4:35, and put background before story. Accuracy and attribution rules stay; structure changes.
+
+- [ ] **Hook (first 10 seconds, ~25 words):** the single most surprising attributed fact plus the stakes. No date, no "on the evening of," no "in this video."
+- [ ] **Early reveal:** the thing the hook promises is paid off, at least partly, within 60-90 seconds. Never promise a payoff more than 2 minutes away.
+- [ ] **Open loop and payoff every 60-90 seconds.** End each section on a question or a reveal that the next section answers.
+- [ ] **Story before background.** Explain a term only when the viewer needs it, in one sentence. Market reaction, price figures and comparisons go late or shrink to one line.
+- [ ] **Each section starts with the new fact or twist,** not setup.
+- [ ] **Sound like a person:** second person ("you"), short sentences, varied rhythm, one rhetorical question per section. Keep attribution in short phrases ("per the FBI").
+- [ ] **Cut anything that isn't the story.** Target 8-10 minutes unless the story earns more.
+- [ ] **Retention map:** after the draft, list each 60-90 second beat with what makes someone keep watching. Rewrite any beat that has no answer.
+- [ ] **Read aloud;** at every 30 seconds ask "would I stop watching here?"
+- [ ] **Check the first 30 seconds** of the finished video against the retention graph at 48 hours; log the result in TRACKER.md.
