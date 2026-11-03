@@ -2,6 +2,8 @@
 
 Why: a competitor with ~5.8K subscribers and 2 videos got ~1.75M views and ~5.8K subscribers (about 0.33% conversion) from one Binance-hack video published about 28 hours after the hack. Monetization needs about 1,000 subscribers and 4,000 watch hours; one or two hits can do it. At 0.33%, 1,000 subscribers is about 300,000 views.
 
+Channel data (vidIQ): that channel was created Nov 2025 but had 8 subscribers and about 2,000 views until Oct 31, 2026, so it was effectively brand new. Its daily subscribers: Oct 31: 8; Nov 1: 1,970; Nov 2: 4,360; Nov 3: 5,810. The video was published Oct 30 and was slow for about two days before YouTube started pushing it. Don't judge a video in its first 48 hours.
+
 ## Target: publish within 30 hours of a high-demand story
 
 | Hour | Task | Time |
