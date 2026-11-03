@@ -52,3 +52,18 @@ Lesson from the Binance video: browse traffic arrived but viewers left within se
 - [ ] **Retention map:** after the draft, list each 60-90 second beat with what makes someone keep watching. Rewrite any beat that has no answer.
 - [ ] **Read aloud;** at every 30 seconds ask "would I stop watching here?"
 - [ ] **Check the first 30 seconds** of the finished video against the retention graph at 48 hours; log the result in TRACKER.md.
+
+## What a breakout competitor did (Gloam, Oct 30 2026; structure only, do not copy wording)
+
+Benchmark: a channel with ~5.8K subscribers and 2 videos got ~1.75M views in 4 days on the same Binance story (title "How Binance Lost $6,300,000,000 in One Night", 14:54, published ~28 hours after the hack). Size was not the barrier; packaging, hook and story structure were.
+
+- [ ] **Hook = one hyper-specific, surprising detail** (a tiny cost vs a huge loss, an exact duration), not a date or a summary.
+- [ ] **Then a roadmap in one breath:** "this is how it happened, who did it, and why X" (open loops in the first 35 seconds).
+- [ ] **Background in one idea only** (an analogy the viewer can hold), then straight into the story.
+- [ ] **Tell the core event as a timeline with exact times and numbers,** with attribution to named firms ("according to TRM Labs"). Do not dismiss technical detail wholesale; verify it against primary sources and attribute it.
+- [ ] **Signpost turns:** "here's the twist," "the detail that matters most," "that should have ended it. It didn't."
+- [ ] **Show the debate:** include experts who disagree and what is still unconfirmed. It builds credibility and keeps viewers asking questions.
+- [ ] **End with a callback to the hook** and a reason to come back ("when those wallets move, we'll be watching").
+- [ ] **Chapters named like questions or story beats** ("One laptop?", "Who did it?", "Where the money is now").
+- [ ] **Thumbnail tells the whole story in one image** with labeled characters/objects (e.g. HACKER, ENGINEER, a BINANCE safe), a clear flow, no tiny text.
+- [ ] **Speed:** publish within about 24-30 hours of a breaking story when the story has a lot of search demand.
