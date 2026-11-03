@@ -170,7 +170,7 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 
 > SAFU holds roughly one billion dollars, according to estimates. That is far less than six billion, so most of the cost falls on Binance itself.
 
-> CNBC reports that Binance says it has restored backing for about ninety percent of the affected assets, using its SAFU fund, part of its futures insurance fund, and its own treasury. That is not the same as getting the money back from the hackers.
+> Binance says it has now restored backing for about ninety-five percent of the affected assets, using its SAFU fund and its own money. The rest is in less liquid tokens it is still buying. That is not the same as getting the money back from the hackers.
 
 > Binance's co-CEO has said the three billion dollars frozen is only about two percent of total user assets and reserves. In other words, the company argues this is large but survivable.
 
@@ -184,7 +184,7 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 
 > On November first, Binance began reopening withdrawals in stages, starting with Bitcoin. Some other coins were still paused in at least one report.
 
-> Binance has published a snapshot of its reserves, and says the full proof of reserves, a report meant to show it holds enough to cover what customers are owed, is due by November third.
+> Binance has published a proof of reserves for ten major tokens, a report meant to show it holds enough to cover what customers are owed, and says more snapshots are coming.
 
 
 ### Market reaction
@@ -268,7 +268,7 @@ Facts are as of **Nov 1, 2026** and come from search summaries of news reports. 
 - [ ] **[V]** FBI coordination with the U.S. Attorney's Office, D.C. (Bloomberg, Decrypt).
 - [ ] **[V]** Tether (over $1.5B) and Circle (over $800M) freeze figures.
 - [ ] **[V]** "About $3.3B still out of reach" (The Hacker News, reported).
-- [x] Updated Nov 2: "about 90% restored" per CNBC (not the earlier 95% from BeInCrypto). This is backing restored by Binance, not funds recovered from the attacker.
+- [x] Updated Nov 3: Binance's Sunday (Nov 1) update raised coverage from about 90% (CNBC, Oct 31) to about 95%. So the original "about ninety-five percent" line is now supported. It is backing restored by Binance, not funds recovered from the attacker.
 - [ ] Binance estimate $6.3B, TRM about $6.36B, Chainalysis about $6.4B.
 - [ ] Market figures: BTC about -4% (about $77,000), BNB -6 to -8%, ETH about -4.4%, about $1.5B liquidations, Fear and Greed 30, past average about 8.3% (CNBC, The Block).
 - [ ] Bybit about $1.5B (Feb 2025) and Ronin about $540-625M (2022), and the FBI attributions.

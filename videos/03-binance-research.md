@@ -95,3 +95,11 @@ Use phrases like "Binance estimates about six billion dollars."
 - **Proof of reserves:** Binance posted a reserves snapshot (as of midnight UTC Oct 31); the full cryptographic proof is expected by **Nov 3 (UTC)**, later than the Nov 2 target. Source: [Feld](https://feld.com/archives/2026/11/binance-hack-update), [Crypto.news](https://crypto.news/binance-hack-recovery-withdrawals-proof-of-reserves/).
 - **New:** The Block reports Binance saw about **$3.64 billion in net outflows** after reopening withdrawals on Nov 1. Source: [The Block](https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259).
 - **Still unconfirmed:** a full official post-mortem; any seizure or recovery of stolen funds; any charges.
+
+
+## Update, Nov 3, 2026 (corrects the Nov 2 update on coverage)
+
+- **Coverage is now about 95%, not 90%.** CNBC's Oct 31 figure was about 90%; Binance's Sunday (Nov 1) update raised it to about 95%, with the remainder in less liquid tokens it is still buying. Sources: [Coin Edition](https://coinedition.com/crypto-live-news/binance-completes-new-proof-of-reserves-as-hack-recovery-reaches-95/), [Cryptobriefing](https://cryptobriefing.com/binance-zero-knowledge-proof-of-reserves/). This is backing restored by Binance, not funds recovered from the attacker.
+- **Proof of reserves:** Binance completed a zero-knowledge proof for the Oct 31 snapshot covering BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC; another snapshot is planned for Nov 4 and may take 40-50 hours. Source: [The Block](https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321).
+- **Withdrawals:** further networks and assets are expected to reopen progressively starting Nov 3.
+- **Post-mortem:** still not published as of Forbes' Nov 2 report. Source: [Forbes](https://forbes.com/sites/digital-assets/2026/11/02/binance-lost-63-billion-in-20-minutes-who-holds-the-keys).

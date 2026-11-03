@@ -132,7 +132,7 @@ Second, it promised to cover all losses with its own money. That includes a fund
 
 SAFU holds roughly one billion dollars, according to estimates. That is far less than six billion, so most of the cost falls on Binance itself.
 
-CNBC reports that Binance says it has restored backing for about ninety percent of the affected assets, using its SAFU fund, part of its futures insurance fund, and its own treasury. That is not the same as getting the money back from the hackers.
+Binance says it has now restored backing for about ninety-five percent of the affected assets, using its SAFU fund and its own money. The rest is in less liquid tokens it is still buying. That is not the same as getting the money back from the hackers.
 
 Binance's co-CEO has said the three billion dollars frozen is only about two percent of total user assets and reserves. In other words, the company argues this is large but survivable.
 
@@ -146,7 +146,7 @@ And pausing withdrawals for days is itself a cost. People could not move their m
 
 On November first, Binance began reopening withdrawals in stages, starting with Bitcoin. Some other coins were still paused in at least one report.
 
-Binance has published a snapshot of its reserves, and says the full proof of reserves, a report meant to show it holds enough to cover what customers are owed, is due by November third.
+Binance has published a proof of reserves for ten major tokens, a report meant to show it holds enough to cover what customers are owed, and says more snapshots are coming.
 
 How did the market react?
 

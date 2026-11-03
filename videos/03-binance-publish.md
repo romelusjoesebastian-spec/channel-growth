@@ -90,10 +90,10 @@ These are estimated from the audio length and its pauses, so check each in the p
 ## 6. Pinned comment
 
 ```
-UPDATES (as of Nov 2, 2026):
+UPDATES (as of Nov 3, 2026):
 - The FBI attributed the hack to North Korea's TraderTraitor, per NBC News, ABC and NPR.
-- CNBC reports Binance says it has restored backing for about 90% of affected assets. That is not the same as recovering the money from the attackers.
-- Binance published a reserves snapshot; the full proof of reserves is due by Nov 3.
+- Binance says it has restored backing for about 95% of the affected assets with its own funds. That is not the same as recovering the money from the attackers.
+- Binance has published a proof of reserves for ten major tokens, with more snapshots planned.
 - Still unconfirmed: Binance's full post-mortem, any seizure of stolen funds, any charges.
 Sources are in the description. I'll edit this comment as things change. What do you want covered next?
 ```
