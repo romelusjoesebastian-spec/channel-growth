@@ -31,7 +31,9 @@ Paste `04-binance-report-narration-by-scene.txt` into NextGen Studio ("I have a 
 > Binance says the attackers moved on to people, using fake recruiters and fake job interviews.
 > A fake job offer is a perfect cover. A stranger offers something people want, and asks them to do something on their own computer.
 > According to Binance, an employee was lured in by a fake recruiter.
-> And that interview, as Binance tells it, became the bridge to everything that came next.
+> According to Binance, someone posing as a project director contacted a software engineer through a job platform and set up two interviews.
+>
+> And those interviews, as Binance tells it, became the bridge to everything that came next.
 
 ### Nine days before
 > Now jump to nine days before the hack.
@@ -50,6 +52,8 @@ Paste `04-binance-report-narration-by-scene.txt` into NextGen Studio ("I have a 
 > In plain terms, the feature lets a wallet sign a permission that lets a program act on its behalf. Think of it as a power of attorney for a crypto wallet.
 > The security firm Blockaid reportedly found that the attacker bundled fifty of these signed permissions into a single transaction.
 > Binance says this let the attackers take control of a hot wallet, a wallet connected to the internet that holds money for withdrawals, and move funds outside the normal withdrawal process.
+>
+> To be clear, the report does not say Ethereum itself was hacked. According to Binance, the attackers abused a legitimate feature, through access to Binance's own signing process.
 > The result was the largest crypto theft on record. Binance puts the affected assets at about six point three four billion dollars.
 
 ### The twist
@@ -65,7 +69,7 @@ Paste `04-binance-report-narration-by-scene.txt` into NextGen Studio ("I have a 
 > Restored means Binance replaced the assets with its own money. According to Teng, it also set aside more than the full amount required.
 > That is different from getting the money back from the hackers.
 > About two point eight five billion dollars is frozen, according to Teng. Other reports say about three billion. Frozen means it cannot move. It does not mean it is back.
-> As of November fifth, no seizure of the stolen funds from the attackers has been announced.
+> As of November seventh, no seizure of the stolen funds from the attackers has been announced.
 
 ### Who
 > So who did it?
@@ -89,7 +93,7 @@ Paste `04-binance-report-narration-by-scene.txt` into NextGen Studio ("I have a 
 
 ## Verify before rendering (I could not open Binance's report)
 
-- [ ] Open Binance's Nov 3 incident report and check every sentence in "June," "September," "Nine days before" and "October 29" against it. Fix anything that differs.
+- [ ] Open Binance's report, titled "29 October Binance Security Incident: Initial Findings and Response Update" (Nov 3), and check every sentence in and check every sentence in "June," "September," "Nine days before" and "October 29" against it. Fix anything that differs.
 - [ ] "Tampered Homebrew installer," "wallet DevOps engineer," "AI coding tool" (CNBC, Insurance Journal).
 - [ ] The fake recruiter / fake job interview wording (CNBC, CoinDesk).
 - [ ] "Nine days before" and "two more software engineers" (CNBC).
@@ -101,7 +105,7 @@ Paste `04-binance-report-narration-by-scene.txt` into NextGen Studio ("I have a 
 - [ ] North Korea "rejected the allegations."
 - [ ] Bybit 2025 attribution (FBI to TraderTraitor).
 - [ ] Haipo Yang's claim (crypto.news).
-- [ ] "As of November fifth, no seizure has been announced": re-check on publish day.
+- [ ] "As of November seventh, no seizure has been announced": re-check on publish day.
 - [ ] Re-check all numbers the day you publish.
 
 ## Production notes

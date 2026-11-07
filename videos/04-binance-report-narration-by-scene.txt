@@ -36,7 +36,9 @@ A fake job offer is a perfect cover. A stranger offers something people want, an
 
 According to Binance, an employee was lured in by a fake recruiter.
 
-And that interview, as Binance tells it, became the bridge to everything that came next.
+According to Binance, someone posing as a project director contacted a software engineer through a job platform and set up two interviews.
+
+And those interviews, as Binance tells it, became the bridge to everything that came next.
 
 Now jump to nine days before the hack.
 
@@ -66,6 +68,8 @@ The security firm Blockaid reportedly found that the attacker bundled fifty of t
 
 Binance says this let the attackers take control of a hot wallet, a wallet connected to the internet that holds money for withdrawals, and move funds outside the normal withdrawal process.
 
+To be clear, the report does not say Ethereum itself was hacked. According to Binance, the attackers abused a legitimate feature, through access to Binance's own signing process.
+
 The result was the largest crypto theft on record. Binance puts the affected assets at about six point three four billion dollars.
 
 Here is the twist.
@@ -88,7 +92,7 @@ That is different from getting the money back from the hackers.
 
 About two point eight five billion dollars is frozen, according to Teng. Other reports say about three billion. Frozen means it cannot move. It does not mean it is back.
 
-As of November fifth, no seizure of the stolen funds from the attackers has been announced.
+As of November seventh, no seizure of the stolen funds from the attackers has been announced.
 
 So who did it?
 
