@@ -24,3 +24,16 @@ pytest
 Use `--offline` for synthetic data. **Run paper mode for weeks before even considering live.**
 This is not financial advice; LLM trading decisions have no proven edge and live mode can lose
 real money. Use an exchange key with trade permission only (no withdrawals) and a small balance.
+
+### Memecoins (`trader/meme.py`)
+
+```bash
+python -m trader.meme --chain solana --cycles 24 --interval 900
+```
+
+Scans DexScreener (keyless) for pairs, drops likely rugs with hard filters (liquidity, volume,
+age window, transaction count, buy/sell skew, no chasing vertical pumps), then Claude picks at most 2.
+A paper book applies 3% slippage + 1% fee, 10% per-token cap, 50% take-profit, 20% stop-loss,
+24h time exit, and a -30% kill switch. **Paper only, deliberately**: live memecoin trading needs
+wallet keys and DEX swaps, which means honeypot tokens, MEV and drained wallets. Filters here cannot
+detect honeypots or holder concentration, so a paper win does not mean a live win.
