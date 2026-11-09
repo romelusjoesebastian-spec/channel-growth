@@ -37,3 +37,20 @@ A paper book applies 3% slippage + 1% fee, 10% per-token cap, 50% take-profit, 2
 24h time exit, and a -30% kill switch. **Paper only, deliberately**: live memecoin trading needs
 wallet keys and DEX swaps, which means honeypot tokens, MEV and drained wallets. Filters here cannot
 detect honeypots or holder concentration, so a paper win does not mean a live win.
+
+### LIVE memecoin trading (`trader/meme_live.py`) - real money
+
+Solana swaps via Jupiter. **Untested against live APIs** (the dev sandbox had no network). Defaults to dry-run.
+
+1. Make a **new burner wallet** (Phantom -> add account). Fund it with ~0.2 SOL you can afford to lose. Never use your main wallet.
+2. Export that burner's private key (base58) and set:
+```bash
+export ANTHROPIC_API_KEY=...
+export SOLANA_PRIVATE_KEY=burner_wallet_base58_key
+export TRADER_LIVE_CONFIRM=I_ACCEPT_REAL_LOSSES
+```
+3. Dry-run first (quotes only, nothing is sent): `python -m trader.meme_live --cycles 3 --interval 60`
+4. Real trades: add `--execute`. Limits live in `Cfg`: 0.02 SOL per buy, 0.10 SOL max open, 3 positions, daily loss stop 0.05 SOL.
+
+Every buy is preceded by a round-trip quote (buy then sell back); no sell route or >15% loss is rejected.
+This catches many honeypots, not all. Memecoins mostly go to zero; expect to lose the money.
